@@ -1,3 +1,4 @@
+## 🚀 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -12,16 +13,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
 </div>
 
-###
+---
 
-<br clear="both">
+## 🐍 GitHub Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/d3s1rr/d3s1rr/output/snake.svg" alt="Snake animation" />
+</div>
 
-<img src="https://raw.githubusercontent.com/d3s1rr/d3s1rr/output/snake.svg" alt="Snake animation" />
+---
 
-###
-
+## 👀 Profile Views
 <div align="center">
   <img src="https://count.getloli.com/get/@moebooru-profile?theme=rule34" alt="profile views" />
 </div>
-
-###
