@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=d3s1rr.d3s1rr&"  />
+  <img src="https://count.getloli.com/get/@moebooru-profile?theme=rule34" alt="profile views" />
 </div>
 
 ###
