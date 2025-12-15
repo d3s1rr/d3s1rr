@@ -13,15 +13,3 @@
 </p>
 
 ---
-
-## 🐍 GitHub Activity
-<div align="center">
-  <img src="https://raw.githubusercontent.com/d3s1rr/d3s1rr/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 👀 Profile Views
-<div align="center">
-  <img src="https://count.getloli.com/get/@moebooru-profile?theme=rule34" alt="profile views" />
-</div>
